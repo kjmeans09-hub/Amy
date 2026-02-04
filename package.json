@@ -1,0 +1,11 @@
+{
+  "name": "food-business-group-app",
+  "version": "1.0.0",
+  "description": "Delivery commission savings calculator",
+  "main": "src/App.tsx",
+  "dependencies": {
+    "lucide-react": "^0.263.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
